@@ -21,10 +21,10 @@ contract RushChapterITests {
 
         (uint256 updatedQuantity, uint256 updatedRemaining) = rushChapterI.dishQuantity(RushChapterI.Dish.ICE_TEA);
 
-        // Verify that the quantity has been updated correctly
+        // Verifier que la quantité initiale se maj
         Assert.equal(updatedQuantity, initialQuantity + 5, "Incorrect updated quantity");
 
-        // Verify that the remaining quantity has been updated correctly
+        // Verifier que la quantité restante est bien maj 
         Assert.equal(updatedRemaining, initialRemaining + 5, "Incorrect updated remaining quantity");
     }
 }
