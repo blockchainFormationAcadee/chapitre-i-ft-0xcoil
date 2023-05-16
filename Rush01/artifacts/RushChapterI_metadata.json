@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.4+commit.c7e474f2"
+		"version": "0.8.18+commit.87f61d96"
 	},
 	"language": "Solidity",
 	"output": {
@@ -121,7 +121,7 @@
 		"compilationTarget": {
 			"contracts/RushChapterI.sol": "RushChapterI"
 		},
-		"evmVersion": "istanbul",
+		"evmVersion": "paris",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
@@ -134,11 +134,11 @@
 	},
 	"sources": {
 		"contracts/RushChapterI.sol": {
-			"keccak256": "0xfa024218964ad8bb759551c8301d8de68cde391f4a70fe8e15652ca6b44497d4",
+			"keccak256": "0x08e9fa4328b0ba082f426d87bdc827e58ff3b4a7f2e05bec507c59c900d06160",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://3242d13b73e96deefdbe2b870f6fc80575426418c5fb644871ae7bcbf89b980a",
-				"dweb:/ipfs/QmUjccfF1DAT3FvcjCjBeuVQcL34dvu7USoUGU6aQtjjns"
+				"bzz-raw://194bd45a868aa8969acfce2b71f31c6c8c6d2ab50417d7060dd302cda21595ef",
+				"dweb:/ipfs/QmPBA5Y9t6JHmXdpdEok4tD369UcoW81EmLy8F575W1i6s"
 			]
 		}
 	},

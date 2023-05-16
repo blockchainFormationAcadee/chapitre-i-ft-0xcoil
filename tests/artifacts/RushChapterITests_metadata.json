@@ -67,11 +67,11 @@
 			]
 		},
 		"remix_accounts.sol": {
-			"keccak256": "0x722e8fd271de98c2d980bda8e3d011551d9641355216b1029084b455c4c2a662",
+			"keccak256": "0xee6a25ab1734af06149f5789227c58d5f795110748f919d418e4929dca1bb5bd",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://8e57585c7061065613c796706efdae0c79a416bde447ccbe4ffaf969aeb7423e",
-				"dweb:/ipfs/QmdQCAgvob9suV3UwSR2rRetyU9fafTtEi2sDv9oRmRSLo"
+				"bzz-raw://1300c100b53bce4bc18e46a1e985a483e46216440c47564413adcf6b8f77c088",
+				"dweb:/ipfs/QmYhpDhYjLEza32isrfxBrTBCog1ohy8K2iLpZ2mWS6Djs"
 			]
 		},
 		"remix_tests.sol": {
@@ -83,11 +83,11 @@
 			]
 		},
 		"tests/RushChapterITests.sol": {
-			"keccak256": "0x8de813bd1fae6e83e150d7d5c93767005d6e2779b00ed4382e63e43ed7465ea7",
+			"keccak256": "0x2829ff820f3ac19250ddf08f6f5b40748d3bde865e4cb6ca68dbc14161b891d2",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://397a054edcd7c60684529fc0c57fbe661a3085305c0f302369f41e2295f2d41e",
-				"dweb:/ipfs/QmduUZbKxcBB8G1PoLGPRKRZxeaNkqJ9vfknFBao5QMMvU"
+				"bzz-raw://4f28002e4020a069adcd0cfdce515276dc18f8b0eaae9defa869d9a7cb91f8eb",
+				"dweb:/ipfs/QmersSn6sBJyar8TUx5wsJc7SAKdweZQ3xGeiVVtBcygQZ"
 			]
 		}
 	},

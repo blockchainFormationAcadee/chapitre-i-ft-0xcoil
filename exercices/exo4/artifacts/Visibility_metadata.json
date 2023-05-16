@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "answerToLife",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "wrongAnswerToLife",
+				"outputs": [
+					{
+						"internalType": "int256",
+						"name": "",
+						"type": "int256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"exercices/exo4/Visibility.sol": "Visibility"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"exercices/exo4/Visibility.sol": {
+			"keccak256": "0xb482158130f8511b3528b1c326ac367cf013b428796a8734857b62bfaa17b3f3",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://0fd124868a5b98ceb05ccfc846db5c50e176d5be753b3b6bc6d87d19b7447585",
+				"dweb:/ipfs/QmeXXp9SWhogNE8qS4Nk6sU1iCKaNTBTAgCDD3FLgx7TBV"
+			]
+		}
+	},
+	"version": 1
+}
